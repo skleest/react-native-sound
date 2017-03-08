@@ -1,5 +1,8 @@
 node_modules
 
+# npm
+npm-debug.log
+
 # OSX
 #
 .DS_Store
@@ -23,3 +26,5 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+# Android Studio
+*.iml
